@@ -1,3 +1,7 @@
+using Random
+
+GeheimeZahl = rand(1:100)
+
 while true;
          print("Rate mal:"); 
          Zahl = parse(Int,readline(stdin))
