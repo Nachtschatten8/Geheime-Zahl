@@ -1,3 +1,2 @@
 # Geheime-Zahl
-
-Hallo
+welche ist dei geheime Zahl ?
